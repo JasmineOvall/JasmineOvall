@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there! I'm Jas, a learning software engineer with a strong interest in Agentic AI/ML and AI Engineering. Marketing professional based in London.
+
+Outside of work, I'm interested in all things creative. I make art, play video games and enjoy extreme sports like skiing and wakeboarding. 
+
+Let's connect!
