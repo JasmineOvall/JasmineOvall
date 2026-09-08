@@ -20,3 +20,5 @@ Hi there! I'm Jas, a learning software engineer with a strong interest in Agenti
 Outside of work, I'm interested in all things creative. I make art, play video games and enjoy extreme sports like skiing and wakeboarding. 
 
 Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmine-ovall-6850511a5/)
