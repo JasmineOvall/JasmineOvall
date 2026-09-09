@@ -21,7 +21,7 @@ Outside of work, I'm interested in all things creative. I make art, play video g
 
 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmine-ovall)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmine-ovall/)
 
 Skills & Text Stack - 
 
